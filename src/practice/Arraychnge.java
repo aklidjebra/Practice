@@ -3,7 +3,7 @@ package practice;
 public class Arraychnge {
 
 	
-	public static void String(String[] args) {
+	public static void main(String[] args) {
 		
 		int array[]= {3,5,7,9,11};
 		change (array);
